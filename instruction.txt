@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test the instructions in my github folder!!! added from localy
+=======
+test the instructions in my github folder !!! changed at Github sit
+>>>>>>> fab45f2e838e5c9adbe59aac15615e2e96c1fa33
