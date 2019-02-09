@@ -1,0 +1,2 @@
+Installation guide
+##### Testing the braching functionality in GIT
